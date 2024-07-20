@@ -1,4 +1,6 @@
 Hi there this is my repository where I try out stuff for data science 
+
+
 list of contents:
   ([MNIST Number Recognition/NN with Numpy.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/MNIST%20Number%20Recognition/NN%20with%20Numpy.ipynb))
     -recognition of MNIST handwwritten dataset with my own dense neural net model using numpy 
