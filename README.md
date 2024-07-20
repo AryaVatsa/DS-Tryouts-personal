@@ -7,9 +7,9 @@ list of contents:
 
   ([MNIST Number Recognition/NN with Numpy.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/MNIST%20Number%20Recognition/NN%20with%20Numpy.ipynb))
    
-  &nbsp;-recognition of MNIST handwritten dataset with my own dense neural net model using numpy (>90% accuracy)
+  &emsp;&emsp;-recognition of MNIST handwritten dataset with my own dense neural net model using numpy (>90% accuracy)
 
-  &nbsp;-uses simple gradient descent as optimiser (easiest for me to implement)
+  &emsp;-uses simple gradient descent as optimiser (easiest for me to implement)
 
   &nbsp;-will try using deep learning with keras to upscale to image recognition (likely classify cats and dogs)
 
