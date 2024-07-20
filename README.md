@@ -1,1 +1,1 @@
-[keyboard spam id](Human Keyboard Spam Recognition/Keyboard Spam Bayes.ipynb)
+[keyboard spam id]([Human Keyboard Spam Recognition/Keyboard Spam Bayes.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/Human%20Keyboard%20Spam%20Recognition/Keyboard%20Spam%20Bayes.ipynb))
