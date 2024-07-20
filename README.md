@@ -1,4 +1,4 @@
-Hi there this is my repository where I try out stuff for data science 
+Hi there this is my repository where I try out data science and AI projects 
 
 
 
@@ -7,7 +7,13 @@ list of contents:
 
   ([MNIST Number Recognition/NN with Numpy.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/MNIST%20Number%20Recognition/NN%20with%20Numpy.ipynb))
    
-  -recognition of MNIST handwwritten dataset with my own dense neural net model using numpy 
+  -recognition of MNIST handwritten dataset with my own dense neural net model using numpy (>90% accuracy)
+
+  -uses simple gradient descent as optimiser (easiest for me to implement)
+
+  -will try using deep learning with keras to upscale to image recognition (likely classify cats and dogs)
+
+  
 
     
   ([Human Keyboard Spam Recognition/Keyboard Spam Bayes.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/Human%20Keyboard%20Spam%20Recognition/Keyboard%20Spam%20Bayes.ipynb))
