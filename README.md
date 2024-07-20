@@ -15,6 +15,8 @@ list of contents:
 
   
 
+
+
     
   ([Human Keyboard Spam Recognition/Keyboard Spam Bayes.ipynb](https://github.com/AryaVatsa/DS-Tryouts-personal/blob/main/Human%20Keyboard%20Spam%20Recognition/Keyboard%20Spam%20Bayes.ipynb))
     
@@ -25,6 +27,8 @@ list of contents:
   -tried naive bayes algorithm (68% accuracy)
   
   -will try gaussian bayes next 
+
+
 
   
 more information available in code comments in respective source code files 
